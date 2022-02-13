@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave&display=swap');
+
+h1{
+    color: #8f727e;
+    font-family: 'Sedgwick Ave', cursive;
+}
+.form-table{
+    padding: 5px;
+    background-color: #e6d7d5;
+    border-radius: 5px;
+}
+.form-label{
+    margin: 5px;
+    padding: 5px;
+}
+.form-input{
+    margin: 5px;
+    padding: 6px;
+}
+input{
+    margin: 2px;
+    padding: 4px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+select{
+    height: 1.7rem;
+    width: 12rem;
+}
+.image-input{
+    border: none;
+}
+button{
+    margin: 3px;
+    padding:3px;
+    border: 1px solid black;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.highlight-btn:hover{
+background-color:#b5c993 ;
+}
+.sub-btn:hover{
+    background-color: #995c62;
+}

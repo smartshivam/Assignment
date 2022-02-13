@@ -1,0 +1,26 @@
+.detail_table{
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.table_head{
+    margin: 2px;
+    padding: 2px;
+    background-color: #5e8064;
+
+}
+.table_head td{
+    border: 1px solid black;
+    margin: 2px;
+    padding: 5px;
+    text-align: center;
+
+}
+.table-row td{
+    background-color: #e8e1e4;
+    border: 1px solid black;
+    margin: 2px;
+    padding: 5px;
+
+}
